@@ -5,7 +5,7 @@
 - 🌱 Currently playing with my local k3s cluster in raspberry pis.
 
 
-### 💬Some of my articles and thoughts
+### 💬 Some of my articles and thoughts
  
 [What I learned studying Enterprise Architecture](https://medium.com/swlh/what-i-learned-studying-enterprise-architecture-cafbde9e6dc2)
 
